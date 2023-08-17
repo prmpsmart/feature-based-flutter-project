@@ -27,7 +27,7 @@ study this project folder structure
     ‣ utils
 ```
 
-## Explanation using ChatGPT
+## Explanation
 
 Certainly! This directory structure seems well-organized and follows a modular approach. Let's dive into each folder and its importance:
 
