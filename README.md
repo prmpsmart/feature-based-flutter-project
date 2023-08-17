@@ -22,6 +22,9 @@ Welcome to the "Feature-Based Flutter Project" repository! This repository serve
 6. Utilize the routing and navigation structure to create a smooth user experience.
 7. Follow best practices for code organization, documentation, and testing.
 
+🗂️ Explanation:
+For detailed information on understanding this template and make the most out of its structure, refer to the  [Explanation](./Explanation.md) section of this repository.
+
 📖 Documentation:
 For detailed information on how to use this template and make the most out of its structure, refer to the Wiki section of this repository.
 
